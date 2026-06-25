@@ -20,4 +20,5 @@ A simple Flashcard Quiz Application developed as part of the CodeAlpha App Devel
 3. Start studying with flashcards.
 ## Author
 Thammishetty Abhishek
+
 CodeAlpha Internship Project
